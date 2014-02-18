@@ -1,0 +1,4 @@
+(1
+ (elpy .
+       [(1 3 0)
+        nil "Emacs Python Development Environment" nil]))
