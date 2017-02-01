@@ -21,4 +21,5 @@
  (iedit . [(0 97) nil "Edit multiple regions in the same way simultaneously." tar])
  (nose . [(0 1 1) nil "Easy Python test running in Emacs" single])
  (buttercup . [(1 0) nil "Behavior-Driven Emacs Lisp Testing" tar])
+ (s . [(1 11 0) nil "The long lost Emacs string manipulation library." single ((:keywords "strings"))])
 )
